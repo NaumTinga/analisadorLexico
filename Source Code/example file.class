@@ -1,0 +1,10 @@
+program testing;
+uses crt;
+begin
+ clrscr;
+ writeln ( 10 div 3 );
+ readln;
+ writeln("End");
+integer 8912d;
+ readln;
+end.
